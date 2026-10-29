@@ -1,0 +1,6 @@
+streamlit>=1.39
+pandas>=2.0
+plotly>=5.20
+Pillow>=10.0
+google-genai>=1.0
+groq>=0.11
